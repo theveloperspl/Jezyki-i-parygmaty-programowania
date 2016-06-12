@@ -1,0 +1,22 @@
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\obj\Debug\zad22.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\obj\Debug\zad22.MainForm.resources
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\obj\Debug\zad22.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\bin\Debug\zad22.exe.config
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\bin\Debug\zad22.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\bin\Debug\zad22.pdb
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\obj\Debug\zad22.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\Zestaw5Zad2\obj\Debug\zad22.pdb
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\bin\Debug\zad22.exe.config
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\bin\Debug\zad22.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\bin\Debug\zad22.pdb
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\obj\Debug\zad22.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\obj\Debug\zad22.MainForm.resources
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\obj\Debug\zad22.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\obj\Debug\zad22.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_02\zad22\obj\Debug\zad22.pdb
+F:\zest_05__zad_02_5\zad22\bin\Debug\zad22.exe.config
+F:\zest_05__zad_02_5\zad22\obj\Debug\zad22.exe
+F:\zest_05__zad_02_5\zad22\obj\Debug\zad22.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_02_5\zad22\bin\Debug\zad22.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_02_5\zad22\obj\Debug\zad22.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_02_5\zad22\obj\Debug\zad22.pdb

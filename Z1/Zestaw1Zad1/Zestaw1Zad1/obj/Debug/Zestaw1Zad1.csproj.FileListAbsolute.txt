@@ -1,0 +1,34 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.pdb
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe.config
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.pdb
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Desktop\Zestawy\16_b_parowicz_artur\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe.config
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csproj.GenerateResource.Cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\bin\Debug\Zestaw1Zad1.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad1\Zestaw1Zad1\obj\Debug\Zestaw1Zad1.csproj.GenerateResource.Cache

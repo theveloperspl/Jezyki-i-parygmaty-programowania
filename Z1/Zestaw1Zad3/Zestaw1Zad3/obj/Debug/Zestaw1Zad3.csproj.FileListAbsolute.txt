@@ -1,0 +1,54 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Desktop\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\Maximus\Studia\Rok II\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+F:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+I:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+I:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+I:\GIT\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache

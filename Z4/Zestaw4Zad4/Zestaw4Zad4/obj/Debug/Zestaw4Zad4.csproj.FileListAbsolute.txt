@@ -1,0 +1,38 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.pdb
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.MainForm.resources
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+C:\Users\domex\Desktop\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.pdb
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csprojResolveAssemblyReference.cache
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.MainForm.resources
+F:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csproj.GenerateResource.Cache
+I:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+I:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+I:\GIT\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\bin\Debug\Zestaw4Zad4.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad4\Zestaw4Zad4\obj\Debug\Zestaw4Zad4.csproj.GenerateResource.Cache

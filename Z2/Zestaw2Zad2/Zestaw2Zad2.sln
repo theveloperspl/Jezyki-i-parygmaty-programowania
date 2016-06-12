@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zestaw2Zad2", "Zestaw2Zad2\Zestaw2Zad2.csproj", "{8FF73F4F-2A12-4DE0-B5D5-26350843D0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF73F4F-2A12-4DE0-B5D5-26350843D0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF73F4F-2A12-4DE0-B5D5-26350843D0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF73F4F-2A12-4DE0-B5D5-26350843D0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF73F4F-2A12-4DE0-B5D5-26350843D0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

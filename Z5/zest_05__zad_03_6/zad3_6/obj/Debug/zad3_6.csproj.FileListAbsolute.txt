@@ -1,0 +1,19 @@
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\bin\Debug\zad3_6.exe.config
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\bin\Debug\zad3_6.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\bin\Debug\zad3_6.pdb
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\obj\Debug\zad3_6.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\obj\Debug\zad3_6.MainForm.resources
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\obj\Debug\zad3_6.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\obj\Debug\zad3_6.exe
+C:\Users\Mateusz\Downloads\Z5\Z5\zest_05__zad_04\zad3_6\obj\Debug\zad3_6.pdb
+F:\zest_05__zad_03_6\zad3_6\bin\Debug\zad3_6.exe.config
+F:\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.exe
+F:\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\bin\Debug\zad3_6.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\bin\Debug\zad3_6.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\bin\Debug\zad3_6.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_03_6\zad3_6\obj\Debug\zad3_6.csproj.GenerateResource.Cache

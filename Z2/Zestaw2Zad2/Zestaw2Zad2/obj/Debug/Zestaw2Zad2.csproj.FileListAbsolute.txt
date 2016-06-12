@@ -1,0 +1,49 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.pdb
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.MainForm.resources
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+C:\Users\domex\Desktop\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csprojResolveAssemblyReference.cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.MainForm.resources
+C:\Users\Maximus\Studia\Rok II\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csproj.GenerateResource.Cache
+H:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+H:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+H:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+F:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+F:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+F:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+I:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+I:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+I:\GIT\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csproj.GenerateResource.Cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\bin\Debug\Zestaw2Zad2.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z2\Zestaw2Zad2\Zestaw2Zad2\obj\Debug\Zestaw2Zad2.csproj.GenerateResource.Cache

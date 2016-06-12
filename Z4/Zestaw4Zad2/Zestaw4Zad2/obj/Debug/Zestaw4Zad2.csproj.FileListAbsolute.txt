@@ -1,0 +1,46 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.pdb
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.MainForm.resources
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+C:\Users\domex\Desktop\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.pdb
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csprojResolveAssemblyReference.cache
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.MainForm.resources
+F:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csproj.GenerateResource.Cache
+I:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+I:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+I:\GIT\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csproj.GenerateResource.Cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\bin\Debug\Zestaw4Zad2.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad2\Zestaw4Zad2\obj\Debug\Zestaw4Zad2.csproj.GenerateResource.Cache

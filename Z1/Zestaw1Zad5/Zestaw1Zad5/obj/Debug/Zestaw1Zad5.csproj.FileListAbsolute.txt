@@ -1,0 +1,19 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.Form1.resources
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.exe.config
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.Form1.resources
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\bin\Debug\Zestaw1Zad5.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad5\Zestaw1Zad5\obj\Debug\Zestaw1Zad5.pdb

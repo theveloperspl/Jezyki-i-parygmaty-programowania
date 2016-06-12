@@ -1,0 +1,60 @@
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\u1lab\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+H:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+I:\GIT\Z4\Zestaw4Zad3USZK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+I:\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+I:\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+I:\GIT\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

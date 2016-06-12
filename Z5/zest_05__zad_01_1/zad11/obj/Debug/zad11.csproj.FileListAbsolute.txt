@@ -1,0 +1,7 @@
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\bin\Debug\Zestaw5Zad1.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\bin\Debug\Zestaw5Zad1.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\bin\Debug\Zestaw5Zad1.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\obj\Debug\zad11.MainForm.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\obj\Debug\zad11.csproj.GenerateResource.Cache
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\obj\Debug\Zestaw5Zad1.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z5\zest_05__zad_01_1\zad11\obj\Debug\Zestaw5Zad1.pdb

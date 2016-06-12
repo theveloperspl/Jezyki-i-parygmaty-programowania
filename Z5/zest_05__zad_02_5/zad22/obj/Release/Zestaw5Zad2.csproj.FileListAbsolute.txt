@@ -1,0 +1,6 @@
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\bin\Release\Zestaw5Zad2.exe.config
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\bin\Release\Zestaw5Zad2.exe
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\obj\Release\Zestaw5Zad2.csprojResolveAssemblyReference.cache
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\obj\Release\Zestaw5Zad2.MainForm.resources
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\obj\Release\Zestaw5Zad2.csproj.GenerateResource.Cache
+C:\Users\Krzyś\Desktop\R.C.Z\R.C.Z\Z5\Z5\Zestaw5Zad2\Zestaw5Zad2\obj\Release\Zestaw5Zad2.exe

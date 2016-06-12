@@ -1,0 +1,24 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.MainForm.resources
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe.config
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.exe
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\bin\Debug\Zestaw1Zad4.pdb
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.MainForm.resources
+E:\Andzi\Studia\Języki i paradygmaty\R.C.Z\Z1\Zestaw1Zad4\Zestaw1Zad4\obj\Debug\Zestaw1Zad4.csproj.GenerateResource.Cache

@@ -1,0 +1,47 @@
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\bin\Debug\wfm.exe.config
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\bin\Debug\wfm.exe
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\bin\Debug\wfm.pdb
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.csprojResolveAssemblyReference.cache
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.Form1.resources
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.Properties.Resources.resources
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.csproj.GenerateResource.Cache
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.exe
+C:\Users\u1lab\Documents\Mateusz Iwańczak\Języki i paradygmaty programowania\Robocze\wfm\wfm\obj\Debug\wfm.pdb
+C:\Users\u1lab\Desktop\wfm\wfm\bin\Debug\wfm.exe.config
+C:\Users\u1lab\Desktop\wfm\wfm\obj\Debug\wfm.exe
+C:\Users\u1lab\Desktop\wfm\wfm\obj\Debug\wfm.pdb
+C:\Users\u1lab\Desktop\wfm\wfm\obj\Debug\wfm.csprojResolveAssemblyReference.cache
+C:\Users\u1lab\Desktop\wfm\wfm\bin\Debug\wfm.exe
+C:\Users\u1lab\Desktop\wfm\wfm\bin\Debug\wfm.pdb
+C:\Users\u1lab\Desktop\wfm\wfm\obj\Debug\wfm.Properties.Resources.resources
+C:\Users\u1lab\Desktop\wfm\wfm\obj\Debug\wfm.csproj.GenerateResource.Cache
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe.config
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.exe
+C:\Users\Maximus\Studia\Rok II\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.pdb
+F:\GIT\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe.config
+F:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.exe
+F:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.pdb
+F:\GIT\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe
+F:\GIT\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.pdb
+F:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csprojResolveAssemblyReference.cache
+F:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.Properties.Resources.resources
+F:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csproj.GenerateResource.Cache
+I:\GIT\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe.config
+I:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.exe
+I:\GIT\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe.config
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.pdb
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csprojResolveAssemblyReference.cache
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.Properties.Resources.resources
+C:\Users\u5lab\Documents\Marek Sojka\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csproj.GenerateResource.Cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe.config
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.exe
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\bin\Debug\wfm.pdb
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csprojResolveAssemblyReference.cache
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.Properties.Resources.resources
+E:\Andzi\Studia\Języki i paradygmaty\Jezyki i parad\Z4\Zestaw4Zad1\wfm\obj\Debug\wfm.csproj.GenerateResource.Cache
